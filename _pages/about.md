@@ -4,26 +4,26 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+Welcome to my blog about Artificial Intelligence! My name is Arnau and I am a computer scientist from Barcelona. I started my career working on embedded systems, learning to program, focusing on optimizing computing power and shrinking memory space. I recently developed an interest in artificial intelligence and started to learn as much as possible about it! I will use this blog to post about everything I find interesting and to share small projects I develop to further my knowledge.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+![placeholder](/images/profile.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 
-## Features
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+## A little bit more about myself
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+### Education
+
+- MSc Computational Engineering and Mathematics - [UOC](https://www.upc.edu/en?set_language=en) (2021 - 2022)
+- BS Computer Science - [UPC](https://www.upc.edu/en?set_language=en) (2012 - 2016)
+
+### Working experience
+
+- Associate Professor - [Universitat Carlemany](https://www.universitatcarlemany.com/) (2022 - Present)
+- Embedded Software Engineer - [Giesecke+Devrient](https://www.gi-de.com/en/) (03/2018 - 01/2022)
+- Junior Software Developer - [Barcelona Supercomputing Center](https://www.bsc.es/) (05/2016 - 05/2017)
+
+### Programming Languages
+
+- Python (mainly for AI topics)
+- C (5 years professional experience)
+- C++ (5 years professional experience)
