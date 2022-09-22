@@ -13,6 +13,9 @@ I find it common for everybody, starting with data science problems, to skip all
 
 3. **Prepare data for consumption**. Once we have the data, we must process, extract and clean it before we can use it. 
 
+    3.1. **[Importing libraries](/importing-libraries/)**  
+    3.2. **[Meet & greet the data](/meet-and-greet-data//)**
+
 4. **Explore the data (EDA)**. Use statistic methods to find potential problems, patterns, classifications, correlations and computations on the data.
 
 5. **Model the data**. The set of data and expected outcomes will determine which algorithms to use. Choosing a bad model can lead, in the best case, to poor performance and, in the worst case, to a bad conclusion.
