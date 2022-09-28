@@ -99,4 +99,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - index.html
 

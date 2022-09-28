@@ -27,4 +27,4 @@ print(df.head())
 
 Understanding the data from these two simple steps is essential. The number of rows will indicate the size of our dataset (the number of samples we could have) and the number/type of columns the features we have for each sample. 
 
-Continue with [The 4 Cs: Correct, complete, create and convert](/the-4-cs//)
+Continue with [The 4 Cs: Correct, complete, create and convert](/the-4-cs/)
