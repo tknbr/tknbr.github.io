@@ -15,8 +15,8 @@ I find it common for everybody, starting with data science problems, to skip all
 
     3.1. **[Importing libraries](/importing-libraries/)**  
     3.2. **[Meet & greet the data](/meet-and-greet-data/)**  
-    3.3 **[The 4 Cs: Correct, complete, create and convert](/the-4-cs/)**  
-    3.4 **[Dividing the data into train and test](/train-test)**  
+    3.3. **[The 4 Cs: Correct, complete, create and convert](/the-4-cs/)**  
+    3.4. **[Dividing the data into train and test](/train-test)**  
 
 4. **Explore the data (EDA)**. Use statistic methods to find potential problems, patterns, classifications, correlations and computations on the data.
 
