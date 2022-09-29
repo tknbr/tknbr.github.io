@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dividing the data into train and test
-categories: [Python, PrepareData, Testing]
+categories: [PrepareData, Testing]
 ---
 
 Once the data is [prepared](/the-4-cs/), a final step must be taken before starting to create the model: split the data into training and testing. The train data will be used to fit the model and test to get a measure of the quality of our model. The percentage of data used for training will depend entirely on the quantity of data available on our dataset. Consider that having a large percentage of data for training will be good to train the model but will affect validation. On the other hand, a larger data block assigned to the test will affect how the model is adjusted. A good trade-off can be a percentage between 70-90% used for training and the rest for testing. Once the data is divided we must ensure to use the test data only to get a final measure of the quality of our model, using it to get better results may lead to a bad model. 

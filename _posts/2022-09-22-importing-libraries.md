@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Importing libraries
-categories: [Python, PrepareData]
+categories: [PrepareData]
 ---
 
 When working with python it is common to use third party libraries. Libraries are a collection of modules containing bundles of code that can be used repeatedly in different programs. This modules makes it easier and conveninet for programmers as we don't need to write the same code over and over again. When preparing the data for consumption we can make us of the following libraries:

@@ -20,6 +20,9 @@ I find it common for everybody, starting with data science problems, to skip all
 
 4. **Explore the data (EDA)**. Use statistic methods to find potential problems, patterns, classifications, correlations and computations on the data.
 
+    4.1. **[Effect of multicollinearity](/effect-of-multicollinearity/)**  
+    4.2. **[Pearson’s correlation of coefficient](/pearson/)**  
+
 5. **Model the data**. The set of data and expected outcomes will determine which algorithms to use. Choosing a bad model can lead, in the best case, to poor performance and, in the worst case, to a bad conclusion.
 
 6. **Validate**. This step will be used to look for signs of overfitting, under fitting or generalization and to obtain the model's performance.

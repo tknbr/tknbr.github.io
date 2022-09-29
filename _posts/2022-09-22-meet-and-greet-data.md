@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Meet and greet the data
-categories: [Python, PrepareData]
+categories: [PrepareData]
 ---
 
 The first step after [importing the libraries](/importing-libraries/) will be to load the data. Panda's library can be used to load the data in our program from a CSV file with a single line of code:
