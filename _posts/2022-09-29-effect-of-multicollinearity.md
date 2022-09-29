@@ -19,5 +19,5 @@ As a summary, the key aspects are:
 To analyse feature correaltion we can use one of the following methods:
 
 1. **[Pearson’s correlation of coefficient](/pearson/)**. Used to measure of the strength of a **linear** association between two variables.
-2. **Spearman’s correlation of coefficient**. Non-parametric measure of the strength and direction of association that exists between two variables.
-3. **Kendall’s Tau correlation of coefficient**. Non-parametric measure of relationships between columns of ranked data.
+2. **[Spearman’s correlation of coefficient](/spearman)**. Non-parametric measure of the strength and direction of association that exists between two variables.
+3. **[Kendall’s Tau correlation of coefficient](/kendall)**. Non-parametric measure of relationships between columns of ranked data.
