@@ -18,7 +18,7 @@ Welcome to my blog about Artificial Intelligence! My name is Arnau and I am a co
 
 ### Working experience
 
-- Associate Professor - [Universitat Carlemany](https://www.universitatcarlemany.com/) (2022 - Present)
+- Associate Professor Operating Systems 101 - [Universitat Carlemany](https://www.universitatcarlemany.com/) (2022 - Present)
 - Embedded Software Engineer - [Giesecke+Devrient](https://www.gi-de.com/en/) (03/2018 - 01/2022)
 - Junior Software Developer - [Barcelona Supercomputing Center](https://www.bsc.es/) (05/2016 - 05/2017)
 
