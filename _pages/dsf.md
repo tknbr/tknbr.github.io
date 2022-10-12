@@ -30,7 +30,7 @@ I find it common for everybody, starting with data science problems, to skip all
     5.1. **[Defining a methodology](/defining-a-methodology)**  
     5.2. **[Metrics](/metrics)**  
     5.3. **Cross-validation**  
-    5.4. **Hyperparameter tunning**  
+    5.4. **[Hyperparameter tunning](/hyperparameters)**  
     5.5. **Regression algorithms**  
     5.6. **Classification algorithms**
 
