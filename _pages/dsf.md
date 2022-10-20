@@ -36,4 +36,4 @@ I find it common for everybody, starting with data science problems, to skip all
 
 6. **Optimize**. Iterate through the whole process to make it better and more robust.
 
-![placeholder](/images/famework.png){:style="display:block; margin-left:auto; margin-right:auto;"  width="60%"}
+![placeholder](/images/framework.png){:style="display:block; margin-left:auto; margin-right:auto;"  width="60%"}
