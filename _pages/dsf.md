@@ -7,6 +7,8 @@ permalink: /a-data-science-framework/
 
 I find it common for everybody, starting with data science problems, to skip all the basic steps and move forward to create new models immediately. To resolve this issue, I always encourage others to take this simple approach:
 
+![placeholder](/images/framework.png){:style="display:block; margin-left:auto; margin-right:auto;"  width="90%"}
+
 1. **Define the problem**. Problems before requirements, requirements before solutions, solutions before design and design before technology.
 
 2. **Gather the data**. Don't try to reinvent the wheel, we live in an age where data is probably already collected somewhere. Locate your source and plan a strategy to gather it.
@@ -36,4 +38,3 @@ I find it common for everybody, starting with data science problems, to skip all
 
 6. **Optimize**. Iterate through the whole process to make it better and more robust.
 
-![placeholder](/images/framework.png){:style="display:block; margin-left:auto; margin-right:auto;"  width="40%"}
