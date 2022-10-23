@@ -28,13 +28,13 @@ I find it common for everybody, starting with data science problems, to skip all
     4.4. **[Kendall’s correlation of coefficient](/kendall/)**
 
 5. **Model and validate the data**. The set of data and expected outcomes will determine which algorithms to use. Choosing a bad model can lead, in the best case, to poor performance and, in the worst case, to a bad conclusion. Also, this step will be used to look for signs of overfitting, under fitting or generalization and to obtain the model's performance.
-
-    5.1. **[Defining a methodology](/defining-a-methodology)**  
-    5.2. **[Metrics](/metrics)**  
-    5.3. **Cross-validation**  
+  
+    5.1. **[Metrics](/metrics)**  
+    5.2. **[Overfitting and Underfitting](/overfitting-and-underfitting)**  
+    5.3. **[Cross-validation](/cross-validation)**  
     5.4. **[Hyperparameter tunning](/hyperparameters)**  
-    5.5. **Regression algorithms**  
-    5.6. **Classification algorithms**
+    5.5. **[Algorithms](/regression-and-classification-algorithms)**  
+    5.6. **[Defining a methodology](/defining-a-methodology)** 
 
 6. **Optimize**. Iterate through the whole process to make it better and more robust.
 
