@@ -10,3 +10,18 @@ Cross validation is a technique to avoid the above problems. Instead of dividing
 
 
 ![placeholder](/images/cross_validation.png){:style="display:block; margin-left:auto; margin-right:auto;"  width="75%"}
+
+
+```python
+# Import sklearn cross_val_score function
+from sklearn.model_selection import cross_val_score
+# Import from sklearn support vector machine algorithm
+from sklearn import svm
+
+# SVM instance with hyperparameters kernel and C set
+clf = svm.SVC(kernel='linear', C=1)
+
+# Test with cross-validation (k=5) metric results 
+# (training = X, validating = y).
+scores = cross_val_score(clf, X, y, cv=5)
+```
