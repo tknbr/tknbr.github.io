@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: post
 title: Pulmonary Fibrosis Evolution
-permalink: /projects/
+categories: [Projects]
 ---
-
 ## Define the problem & Gather the data
 
 Pulmonary fibrosis is a disease that causes irreversible damage to the lung. The mean life expectancy of patients is 3.8 years, but prompt diagnosis and early treatment can increase life expectancy up to 5 years. The goal of this project is to explore the personalized evolution of patients using machine learning techniques.
