@@ -64,5 +64,5 @@ For the final evaluation we create one model for each algorithm tested trained w
 
 The results obtained are consistent with what we expected as XGBoost, LightGBM and SVR obtain a far better result than Decision Trees. This is just the start of the project and to obtain better results we should contact the OSIC and gather more data to work with a bigger dataset and find more parameters to be used in the training phase. 
 
-The code whole code is availabe as a [google colab](https://colab.research.google.com/drive/1EVhE5qbfbuxuOSRQ1cLxtNRRkE1r7G1S)! If you have any questions feel free to email me or send me a msg via linkedin!
+The whole code is availabe as a [google colab](https://colab.research.google.com/drive/1EVhE5qbfbuxuOSRQ1cLxtNRRkE1r7G1S)! If you have any questions feel free to email me or send me a msg via linkedin!
 
