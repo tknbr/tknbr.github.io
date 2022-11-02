@@ -7,7 +7,7 @@ permalink: /
 
 Welcome to my blog about Artificial Intelligence! My name is Arnau and I am a computer engineer from Barcelona. I started my career working on embedded systems, learning to program, focusing on optimizing computing power and shrinking memory space. I recently developed an interest in Artificial Intelligence and started to learn as much as possible about it! I will use this blog to post about everything I find interesting and to share small [projects](/projects) I develop to further my knowledge.
 
-![placeholder](/images/profile.png){:style="display:block; margin-left:auto; margin-right:auto;"  width="60%"}
+![placeholder](/images/jo2.jpg){:style="display:block; margin-left:auto; margin-right:auto;"  width="60%"}
 
 
 ## A little bit more about myself
