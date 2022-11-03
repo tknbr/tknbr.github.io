@@ -145,7 +145,7 @@ def split_dataset():
     return trainSet, testSet, valSet
 ```
 
-The number of images in the dataset is quite small (473). A common trick is to apply small transformations to the images to obtain a bigger dataset. This technique is called **image augmentation**. In this project we will perform the following transformations:
+The number of images in the dataset is quite small (991). A common trick is to apply small transformations to the images to obtain a bigger dataset. This technique is called **image augmentation**. In this project we will perform the following transformations:
 
 - **Flip** the image horizontally.
 - Apply **noise** to the image (change the value of some pixels).
@@ -325,8 +325,12 @@ History plot of the new neural network using transfer learning shows a better co
 
 ## Evaluation
 
-Evaluation is performed with the transfer learning model. The confusion matrix obtained is shown below with a sensitivity of **0.955** and a specificity of **0.957**.
+Evaluation is performed with the transfer learning model and the test Dataset. The confusion matrix obtained is shown below with a sensitivity of **0.955** and a specificity of **0.957**. This means that for both Craterellus cornucopioides and Lactarius deliciosus our model identifies correctly the specie 95% of times.
 
 ![placeholder](/images/projects/bolets/cm.png){:style="display:block; margin-left:auto; margin-right:auto;"  width="80%"}
+
+## Conclusion
+
+Gathering the data, preparing it for consumption, designing a basic neural network for image classification and finally using transfer learning to avoid overfitting. The purpose of this project was to demonstrate how to build a reliable model with a small data set (~ 500 images per class). In future chapters, we will work with more than two classes, making it a multi-class classifier.
 
 
