@@ -194,7 +194,7 @@ def _load_image_(self,theIndex):
 The neural network architecture used to classify images has the following parts:
 
 * **Feature extractor**. This layer is in charge to transform the input image into a small representation using consecutive layers (CNN and pooling).
-* **Classificator**. This layer uses the output from the feature extractor to classify the image. Normally, it is composed by a flattening layer (transforms the output into a 1D tensor) and some fully connected layers. The last layer will represent the output class.
+* **Classifier**. This layer uses the output from the feature extractor to classify the image. Normally, it is composed by a flattening layer (transforms the output into a 1D tensor) and some fully connected layers. The last layer will represent the output class.
 
 The layers used for this experiments are the following:
 
