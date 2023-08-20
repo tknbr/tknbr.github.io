@@ -7,7 +7,7 @@ permalink: /
 
 Welcome to my blog! My name is Arnau and I am a Software Engineer with 5+ years of experience in Embedded and Operating Systems. During this time I have focused in learning how to build a clean architecture focusing on optimization and efficient memory usage. In this blog, you will find information about a wide range of topics that interest me, spanning from the embedded world where I work day to day, to the intriguing realm of Artificial Intelligence.
 
-![placeholder](/images/profile.jpg){:style="display:block; margin-left:auto; margin-right:auto;"  width="60%"}
+![placeholder](/images/jo2.jpg){:style="display:block; margin-left:auto; margin-right:auto;"  width="60%"}
 
 ## A little bit more about myself
 
