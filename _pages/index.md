@@ -5,7 +5,7 @@ permalink: /
 ---
 
 
-Welcome to my blog! My name is Arnau and I am a Software Engineer with 5+ years of experience in Embedded and Operating Systems. During this time I have focused in learning how to build a clean architecture focusing on optimization and efficient memory usage. In this blog, you will find information about a wide range of topics that interest me, spanning from the embedded world where I work day to day, to the intriguing realm of Artificial Intelligence.
+Welcome to my blog! My name is Arnau and I am a Software Engineer with 5+ years of experience in Embedded and Operating Systems. Over the years, I have focused on learning how to build a clean architecture with an emphasis on optimization and efficient memory usage. In this blog, you will find information about a wide range of topics that interest me, especially in the intriguing realm of Artificial Intelligence. Additionally, you'll find some side projects I developed in my free time to learn about AI and statistics.
 
 ![placeholder](/images/jo2.jpg){:style="display:block; margin-left:auto; margin-right:auto;"  width="60%"}
 
@@ -25,7 +25,7 @@ Welcome to my blog! My name is Arnau and I am a Software Engineer with 5+ years 
 
 ### Programming Languages
 
-- C (5 years professional experience)
-- C++ (5 years professional experience)
+- C (+5 years professional experience)
+- C++ (+5 years professional experience)
 - Python (AI & scripting)
 
