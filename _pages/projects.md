@@ -6,7 +6,7 @@ permalink: /projects/
 
 This space will be used to share the workflow I follow when developing a project. If any question arises, feel free to email me or send me a message via linkedin!
 
-# Computer vision mushroom specie idenfifier
+# Computer vision mushroom specie identifier
 
 A common hobby among the people of my country is trying to find some species of mushrooms (fungi) while walking through the forest. There are more than 60 different species within 50 km of my hometown. It is thus essential to correctly identify those that are edible and those that are not. This project aims to identify mushroom species from photographs using artificial intelligence and computer vision techniques. [See more!](/mushrooms)
 
